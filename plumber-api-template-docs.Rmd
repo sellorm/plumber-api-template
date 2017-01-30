@@ -23,7 +23,7 @@ Optional: references and links as required
 
 eg.
 
-```{sh, eval = FALSE}
+```{bash, eval = FALSE}
 curl http://localhost:5000/api/endpoint
 ```
 
