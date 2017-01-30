@@ -1,0 +1,45 @@
+note: The following spec, attempts to copy the format of R's built in documentation.
+
+# Name
+(Should be changed to the name of the endpoint)
+
+## Description
+A brief description of the purpose of this endpoint.
+
+## Usage
+Info on how the endpoint is to be used
+
+## Arguments
+What are the suported arguments, data types and so on
+
+## Details
+A more detailed explanation of the function, what it does and how it does it
+
+## See Also (optional)
+Optional: references and links as required
+
+## Examples
+**Working** examples of how to use the endpoint.
+
+eg.
+
+```{sh, eval = FALSE}
+curl http://localhost:5000/api/endpoint
+```
+
+returns:
+
+```{bash, eval = FALSE}
+["Your function goes here"]
+```
+
+## Author/Maintenance
+Author and/or maintenance information should go here.
+
+eg. 
+
+[Mark Sellors](mailto:mark@example.com)
+
+Or
+
+For issues with this endpoint, please raise a [support request](http://example.com/support).
